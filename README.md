@@ -1,4 +1,4 @@
-# quiz
+# Quiz (Lab Exam)
 
 A new Flutter application.
 
